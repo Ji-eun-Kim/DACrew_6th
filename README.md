@@ -1,4 +1,4 @@
-# DACrew 6기
+# DACrew 6기 - 신용카드 사용자 연체 예측 모델링  
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-## 3. 대회 기간
+## 2. 대회 기간
 
 - 활동 기간: 2023.7.8 ~ 2023.8.31
 - 1차 평가: 2023.9.1 ~ 2023.9.8
@@ -18,5 +18,7 @@
   
 <br/>
 
-## 4. 자료   
-https://dacon.io/competitions/official/236116/codeshare/8768?page=1&dtype=random
+## 3. 자료      
+https://dacon.io/competitions/official/236116/codeshare/8768?page=1&dtype=random  
+
+![236116-1-463470_page-0001 (1)](https://github.com/Ji-eun-Kim/DACrew_6th/assets/124686375/06cb9af0-8162-4c02-9001-14a1d30aa8cc)  

@@ -1,6 +1,12 @@
-# DACrew 6기 - 신용카드 사용자 연체 예측 모델링  
+<h2 align='center'> 신용카드 사용자 연체 예측 모델링 프로젝트 </h2>  
+<h3 align='center'> [DACON] 서포터즈 DACrew 6기 </h3>  
+<h4 align='center'> (2023.07. ~ 2023.08.)  
+<br/> 
+  
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)  
 
-<br/>
+&nbsp;
+
 
 ## 1. 주최 기관
 
